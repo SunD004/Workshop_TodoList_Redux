@@ -55,7 +55,7 @@
 
 
 **Votre premier exercice sera de faire une simple TodoList. Je vous interdis de faire des class component en 2020 !
-Si vous ne connssaisez pas du tout les funcitonal component je vous invites a regarder comment fonctionne les Hooks pour vous permettre de créer et modifier des states dans un funcitonal component.
+Si vous ne connssaisez pas du tout les functional components je vous invites a regarder comment fonctionne les Hooks pour vous permettre de créer et modifier des states dans un functional component.
 Doc officiel sur les Hooks -> https://fr.reactjs.org/docs/hooks-intro.html**
 
 ## Exercice 4
@@ -64,6 +64,7 @@ Doc officiel sur les Hooks -> https://fr.reactjs.org/docs/hooks-intro.html**
 
 * **npm install --save react-redux**
 * **npm install redux**
+* **Petit gif qui montre le fonctionnement de redux -> https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif**
 
 
 **Vous allez maintenant faire le meme exercice mais cette fois en utilisant le framework redux dans votre app**
