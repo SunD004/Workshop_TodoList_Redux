@@ -66,10 +66,10 @@ Doc officiel sur les Hooks -> https://fr.reactjs.org/docs/hooks-intro.html**
 * **npm install redux**
 * **Petit gif qui montre le fonctionnement de redux -> https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif**
 
-## Implemnter redux dans son app nécéssite :
+#### Implementer redux dans son app nécéssite :
 * **un reducer (store) qui contient les states de notre app**
 * **des actions pour intéragir avec notre store, une action reçois une valeur en parametre et l'envoie en payload au store**
-* **des constants pour définir le type de notre reducer pour qu'une action modifie tel ou tel state**
+* **des constants pour définir le type de nos actions pour qu'une action modifie tel ou tel state de notre reducer**
 
 
 **Vous allez maintenant faire le meme exercice mais cette fois en utilisant le framework redux dans votre app**
