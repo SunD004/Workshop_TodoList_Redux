@@ -54,8 +54,9 @@
 #### C'est parti votre environnement travail est pret et vous allez pouvoir coder!
 
 
-**Votre premier exercice sera de faire une simple TodoList. Je vous interdis de faire des class component en 2020 !
-Si vous ne connssaisez pas du tout les functional components je vous invites a regarder comment fonctionne les Hooks pour vous permettre de créer et modifier des states dans un functional component.
+**Votre premier exercice sera de faire une simple TodoList.
+Je vous interdis de faire des class component en 2020 !
+Si vous ne connaissez pas du tout les functional components je vous invites a regarder comment fonctionne les Hooks pour vous permettre de créer et modifier des states dans un functional component.
 Doc officiel sur les Hooks -> https://fr.reactjs.org/docs/hooks-intro.html**
 
 ## Exercice 4
