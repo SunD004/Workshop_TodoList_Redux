@@ -68,7 +68,6 @@ Doc officiel sur les Hooks -> https://fr.reactjs.org/docs/hooks-intro.html**
 * **Petit gif qui montre le fonctionnement de redux -> https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif**
 
 **Voici quelques liens pour vous aidez à implementer Redux en utilisant la dernière façon de faire (Redux Hooks):**
-* -> https://thoughtbot.com/blog/using-redux-with-react-hooks#:~:text=React%20Redux%20now%20includes%20its,state%20you're%20interested%20in.
 * -> https://www.youtube.com/watch?v=3zoIigieur0 
 * -> https://react-redux.js.org/api/hooks
 
